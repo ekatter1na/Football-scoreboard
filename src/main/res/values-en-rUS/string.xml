@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">football scoreboard</string>
+<string name="Argentina">Argentina</string>
+<string name="Portugal">Portugal</string>
+<string name="Null">Reset account</string>
+</resources>
